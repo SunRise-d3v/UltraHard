@@ -1,0 +1,166 @@
+Items: {
+	Soul: {
+		Tooltip: ""
+		DisplayName: Soul
+	}
+
+	DancingSoul: {
+		Tooltip: ""
+		DisplayName: Dancing Soul
+	}
+
+	GiftedSoul: {
+		Tooltip: ""
+		DisplayName: Gifted Soul
+	}
+
+	LeperSoul: {
+		Tooltip: ""
+		DisplayName: Leper Soul
+	}
+
+	PurifiedSoul: {
+		Tooltip: ""
+		DisplayName: Purified Soul
+	}
+
+	SoulofControl: {
+		Tooltip: ""
+		DisplayName: Soul of Control
+	}
+
+	SoulofIgnorance: {
+		Tooltip: ""
+		DisplayName: Soul of Ignorance
+	}
+
+	SoulofPain: {
+		Tooltip: ""
+		DisplayName: Soul of Pain
+	}
+
+	DivineSoul: {
+		Tooltip: ""
+		DisplayName: Divine Soul
+	}
+
+	SoulofGreatness: {
+		Tooltip: ""
+		DisplayName: Soul of Greatness
+	}
+
+	StarterBag: {
+		Tooltip: ""
+		DisplayName: Starter Bag
+	}
+
+	EstusFlask: {
+		Tooltip: ""
+		DisplayName: Estus Flask
+	}
+
+	AirElement: {
+		Tooltip: ""
+		DisplayName: Air Element
+	}
+
+	ElementofGod: {
+		Tooltip: ""
+		DisplayName: Elementof God
+	}
+
+	ElementofNature: {
+		Tooltip: ""
+		DisplayName: Elementof Nature
+	}
+
+	ElementofWorldEvil: {
+		Tooltip: ""
+		DisplayName: Elementof World Evil
+	}
+
+	FireElement: {
+		Tooltip: ""
+		DisplayName: Fire Element
+	}
+
+	StoneElement: {
+		Tooltip: ""
+		DisplayName: Stone Element
+	}
+
+	WaterElement: {
+		Tooltip: ""
+		DisplayName: Water Element
+	}
+
+	PreciousJelly: {
+		Tooltip: ""
+		DisplayName: Precious Jelly
+	}
+
+	PreciousStone: {
+		Tooltip: ""
+		DisplayName: Precious Stone
+	}
+
+	SpinalCord: {
+		Tooltip: ""
+		DisplayName: Spinal Cord
+	}
+
+	Cartilage: {
+		Tooltip: ""
+		DisplayName: Cartilage
+	}
+
+	GiantWormTooth: {
+		Tooltip: ""
+		DisplayName: Giant Worm Tooth
+	}
+
+	Cornea: {
+		Tooltip: ""
+		DisplayName: Cornea
+	}
+
+	EyeLens: {
+		Tooltip: ""
+		DisplayName: Eye Lens
+	}
+
+	BeeWing: {
+		Tooltip: ""
+		DisplayName: Bee Wing
+	}
+
+	RoyalHoney: {
+		Tooltip: ""
+		DisplayName: Royal Honey
+	}
+
+	DeerHorn: {
+		Tooltip: ""
+		DisplayName: Deer Horn
+	}
+
+	EyeoftheCyclops: {
+		Tooltip: ""
+		DisplayName: Eyeofthe Cyclops
+	}
+}
+
+Buffs: {
+	ArachnophobiaDebuff: {
+		DisplayName: Arachnophobia Debuff
+		Description: Mods.InPursuitOfSouls.Buffs.ArachnophobiaDebuff.Description
+	}
+}
+
+NPCs.BetterKingSlime.DisplayName: Better King Slime
+
+Projectiles: {
+	HostileBouncyGrenade.DisplayName: Hostile Bouncy Grenade
+	StarOfDeath.DisplayName: Star Of Death
+	SkyWarningBeam.DisplayName: Sky Warning Beam
+}

@@ -1,0 +1,3 @@
+displayName = In pursuit of souls
+author = Me)
+version = 0.1
